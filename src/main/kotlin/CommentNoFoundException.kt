@@ -1,0 +1,3 @@
+class CommentNoFoundException: Exception() {
+
+}
